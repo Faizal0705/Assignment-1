@@ -1,0 +1,11 @@
+,Route Name,First Bus Time,Last Bus Time,Ticket Price
+0,Hyderabad to Vijayawada,"<span class=""totalRoutes"">First Bus<!-- --> : <strong>00:15</strong></span>","<span class=""totalRoutes"">Last Bus<!-- --> : <strong>23:20</strong></span>","<span class=""fare""> <!-- -->INR 352</span>"
+1,Khammam to Hyderabad,"<span class=""totalRoutes"">First Bus<!-- --> : <strong>00:25</strong></span>","<span class=""totalRoutes"">Last Bus<!-- --> : <strong>23:55</strong></span>","<span class=""fare""> <!-- -->INR 281</span>"
+2,Hyderabad to Khammam,"<span class=""totalRoutes"">First Bus<!-- --> : <strong>01:00</strong></span>","<span class=""totalRoutes"">Last Bus<!-- --> : <strong>23:55</strong></span>","<span class=""fare""> <!-- -->INR 281</span>"
+3,Karimnagar to Hyderabad,"<span class=""totalRoutes"">First Bus<!-- --> : <strong>00:10</strong></span>","<span class=""totalRoutes"">Last Bus<!-- --> : <strong>23:30</strong></span>","<span class=""fare""> <!-- -->INR 278</span>"
+4,Hyderabad to Srisailam,"<span class=""totalRoutes"">First Bus<!-- --> : <strong>02:30</strong></span>","<span class=""totalRoutes"">Last Bus<!-- --> : <strong>22:00</strong></span>","<span class=""fare""> <!-- -->INR 390</span>"
+5,Hyderabad to Karimnagar,"<span class=""totalRoutes"">First Bus<!-- --> : <strong>00:10</strong></span>","<span class=""totalRoutes"">Last Bus<!-- --> : <strong>23:45</strong></span>","<span class=""fare""> <!-- -->INR 278</span>"
+6,Hyderabad to Mancherial,"<span class=""totalRoutes"">First Bus<!-- --> : <strong>04:45</strong></span>","<span class=""totalRoutes"">Last Bus<!-- --> : <strong>23:30</strong></span>","<span class=""fare""> <!-- -->INR 429</span>"
+7,Hyderabad to Nirmal,"<span class=""totalRoutes"">First Bus<!-- --> : <strong>01:15</strong></span>","<span class=""totalRoutes"">Last Bus<!-- --> : <strong>23:45</strong></span>","<span class=""fare""> <!-- -->INR 376</span>"
+8,Hyderabad to Adilabad,"<span class=""totalRoutes"">First Bus<!-- --> : <strong>04:00</strong></span>","<span class=""totalRoutes"">Last Bus<!-- --> : <strong>23:00</strong></span>","<span class=""fare""> <!-- -->INR 504</span>"
+9,Hyderabad to Ongole,"<span class=""totalRoutes"">First Bus<!-- --> : <strong>08:15</strong></span>","<span class=""totalRoutes"">Last Bus<!-- --> : <strong>23:10</strong></span>","<span class=""fare""> <!-- -->INR 424</span>"
